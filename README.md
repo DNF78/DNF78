@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DNF78
 - 👀 I’m interested in all aspects of CS
 - 🌱 I’m currently learning about Mathematica from Wolfram Alpha
-- 💞️ I’m looking to collaborate on projects that can offer me some experience with data manipulation or a high level language
+- 💞️ I’m looking to collaborate on projects that can offer me some experience with data manipulation or a high level language.
 - 📫 I can be reached here, please feel free to get in touch.
 
 <!---
